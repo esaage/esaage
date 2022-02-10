@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Esa Age</h2>
-&nbsp; <a href="https://esaage.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>
+&nbsp; <a href="https://esaage.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" />https://esaage.com</a>
 <h3> 💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning at University of Technology Yogyakarta

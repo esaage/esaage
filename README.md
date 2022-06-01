@@ -3,6 +3,7 @@
 <h3> 💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning at University of Technology Yogyakarta
+- - 🔭 &nbsp; I’m also a Remote Web Developer in Soerjo University Ngawi
 
 <br>
 
